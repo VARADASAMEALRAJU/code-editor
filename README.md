@@ -18,6 +18,14 @@ The project is fully containerized using Docker and Docker Compose.
 
 ---
 
+## 🎥 Demo Video
+
+Project demonstration video:
+
+https://drive.google.com/file/d/1hSG1QOu7FbfOI3FQQ6PBr1VOfTLLOPbS/view?usp=sharing
+
+---
+
 ## 🏗️ Tech Stack
 
 - React
@@ -209,7 +217,7 @@ No real secrets are included.
 
 - Editor remains focused after indentation
 - Fully keyboard accessible
-- Data-test-id attributes included for automated evaluation
+- data-test-id attributes included for automated evaluation
 
 ---
 
